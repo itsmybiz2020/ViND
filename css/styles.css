@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+.top {
+background-color: #99f3bd;
+margin: 0;
+}
+.content {
+  background-color: #99f3bd;
+  margin: 5px;
+}
+h1{
+  margin: 0;
+}
+.logo{
+  width: 100px
+}
+.feature{
+  width: 200px
+}
